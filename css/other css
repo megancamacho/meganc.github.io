@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Megan Camacho</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        
+        		<h1>Hi there,Megan Camacho!</h1>
+				<p>Welsome to my Page</em>  <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    
+		</footer>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+        
+        <h1>About Me</h1>
+        <h2>Personal Life</h2>
+    
+        
+        <p>
+            me.
+        </p>
+        
+        
+        <h3>More</h3>
+        <p>
+            what else
+        </p>
+       
+      
+        <h3>More more</h3>
+        <p>
+           ..
+        </p>
+        
+        <h3>Lastly</h3>
+        <p>
+            a few more things
+        </p>
+
+        <h3>Conclusion </h3>
+        <p>
+            Final statement about me
+        </p>
+        
+        
+        <h3>Interesting thngs about me</h3>
+        <p>
+            volleyball 
+        </p>
+
+        
+        <h3>Personal Life!</h3>
+        <p>
+            3 siblings
+        </p>
+        
