@@ -235,4 +235,13 @@ h6
     margin-top: 10px;    
 }
 
+h7
+{
+  color:black;
+  text-transform: uppercase;
+  font-size: 60px;
+  text-align: left;
+  margin-top: 10px;
+}
+
 
