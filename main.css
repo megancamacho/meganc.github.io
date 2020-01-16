@@ -234,22 +234,3 @@ h6
     text-align: left;
     margin-top: 10px;    
 }
-
-h8
-{
-  color:black;
-  text-transform: uppercase;
-  font-size: 100px;
-  text-align: left;
-  margin-top: 10px;
-}
-
-h9
-{
-  color:black;
-  text-transform: uppercase;
-  font-size: 100px;
-  text-align: right;
-  margin-top: 50px; 
-}
-
